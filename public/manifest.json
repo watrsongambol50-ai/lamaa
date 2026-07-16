@@ -1,0 +1,39 @@
+{
+    "name": "لماء LAMAA",
+    "short_name": "لماء",
+    "description": "خدمة غسيل ملابسك من باب بيتك",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#f0f4ff",
+    "theme_color": "#0d2b6b",
+    "orientation": "portrait",
+    "dir": "rtl",
+    "lang": "ar",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
